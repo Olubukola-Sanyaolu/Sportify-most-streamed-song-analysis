@@ -4,6 +4,7 @@
 
 This data analysis project provides a comprehensive analysis of Spotify's most streamed songs from 2016 to 2023. It offers insights into various aspects of streaming trends, song attributes, artist popularity, and playlist performance.
 
+<img width="854" alt="Spotify most streamed song" src="https://github.com/user-attachments/assets/94bd9273-5a51-4c4d-a6cc-c3379fc9e999">
 
 
 
@@ -19,6 +20,7 @@ In the initial data preparation phase ,we performed the following task:
 3. Data cleaning and formatting
 
 ### Exploratory Data Analysis
+EDA involved exploring the spotify data to answer the following question:
 
 1. What is the Stream Trend over the years?
 2. Which track name has the top streams?
