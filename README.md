@@ -37,6 +37,7 @@ The analysis results are summarized as follows:
 2. Song Attributes: "Blinding Lights" by The Weeknd emerged as the most streamed track, followed by "Shape of You" by Ed Sheeran and "Thinking Out Loud" by Ed Sheeran.
 3. Artist Popularity: The Weeknd secured the top spot as the most streamed artist, followed by Ed Sheeran and Taylor Swift.
 4. Playlist Performance: The playlist titled "Spotify" garnered the highest number of streams, indicating its popularity among listeners.
+5.  Genre Popularity: "Taylor Swift" has the highest song attributes.The analysis of song attributes (e.g., danceability, energy, liveness) can provide insights into the preferred genres and musical styles among listeners. For example, if danceability scores are consistently high, it indicates a preference for upbeat music.
 
 ### Recomendations
 
