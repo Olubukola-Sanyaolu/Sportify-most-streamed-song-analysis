@@ -1,4 +1,9 @@
 # Spotify Most Streamed song from 2016 to 2023
+---
+
+### Business Problem
+---
+Spotify seeks to improve its playlist curation and artist promotion strategies by understanding the key factors driving the success of its most streamed songs.
 
 ### Project Overview
 ---
@@ -11,10 +16,12 @@ This data analysis project provides a comprehensive analysis of Spotify's most s
 
 
 ### Methodology
+---
 
 The analysis was conducted using Excel, with data sourced from Kaggle. This approach allowed for effective data manipulation, visualization, and insights extraction.
 
 ### Data Cleaning/Preparation
+---
 
 In the initial data preparation phase ,we performed the following task:
 1. Data loading and Inspection
@@ -22,6 +29,7 @@ In the initial data preparation phase ,we performed the following task:
 3. Data cleaning and formatting
 
 ### Exploratory Data Analysis
+---
 EDA involved exploring the spotify data to answer the following question:
 
 1. What is the Stream Trend over the years?
@@ -31,6 +39,7 @@ EDA involved exploring the spotify data to answer the following question:
 5. which Artist name has the highest Song attribute?
 
 ### Observation/Findings
+---
 
 The analysis results are summarized as follows:
 1. Streaming Trends: The dashboard reveals a significant increase in overall streams over the analyzed period, with 2022 witnessing the highest number of streams.
@@ -40,6 +49,7 @@ The analysis results are summarized as follows:
 5.  Genre Popularity: "Taylor Swift" has the highest song attributes.The analysis of song attributes (e.g., danceability, energy, liveness) can provide insights into the preferred genres and musical styles among listeners. For example, if danceability scores are consistently high, it indicates a preference for upbeat music.
 
 ### Recomendations
+---
 
 1. Diversification: While The Weeknd and Ed Sheeran dominate the charts, exploring the popularity of other artists and genres could offer new opportunities for growth.
 2. Playlist Customization: Creating more targeted playlists based on specific genres, moods, or activities could enhance user engagement and satisfaction.
